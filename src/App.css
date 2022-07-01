@@ -16,9 +16,6 @@
   align-items: center;
   width: 50%;
   list-style: none;
+  cursor: pointer;
 } 
 
-.Links > li {
-  cursor: pointer;
-  color: #fff;
-}

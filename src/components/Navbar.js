@@ -9,13 +9,13 @@ function Navbar() {
       <h3>Logo</h3>
 
       <ul className='Links'>
-        <Link to="/">
+        <Link style={{color: 'white', textDecoration: 'none'}} to="/">
           <li>Home</li>
         </Link>
-        <Link to="/about">
+        <Link style={{color: 'white', textDecoration: 'none'}} to="/about">
           <li>About</li>
         </Link>
-        <Link to="/contact">
+        <Link style={{color: 'white', textDecoration: 'none'}} to="/contact">
           <li>Contact</li>
         </Link>
       </ul>
